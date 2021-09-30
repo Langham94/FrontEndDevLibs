@@ -102,3 +102,121 @@ Front End Development Libraries
 2.16. Target a Specific Child of an Element Using jQuery
 
 2.17. Use jQuery to Modify the Entire Page
+
+
+3. SASS
+
+3.1. Store Data with Sass Variables
+
+3.2. Nest CSS with Sass
+
+3.3. Create Reusable CSS with Mixins
+
+3.4. Use @if and @else to Add Logic To Your Styles
+
+3.5. Use @for to Create a Sass Loop
+
+3.6. Use @each to Map Over Items in a List
+
+3.7. Apply a Style Until a Condition is Met with @while
+
+3.8. Split Your Styles into Smaller Chunks with Partials
+
+3.9. Extend One Set of CSS Styles to Another Element
+
+
+4. React
+
+4.1. Create a Simple JSX Element
+
+4.2. Create a Complex JSX Element
+
+4.3. Add Comments in JSX
+
+4.4. Render HTML Elements to the DOM
+
+4.5. Define an HTML Class in JSX
+
+4.6. Learn About Self-Closing JSX Tags
+
+4.7. Create a Stateless Functional Component
+
+4.8. Create a React Component
+
+4.9. Create a Component with Composition
+
+4.10. Use React to Render Nested Components
+
+4.11. Compose React Components
+
+4.12. Render a Class Component to the DOM
+
+4.13. Write a React Component from Scratch
+
+4.14. Pass Props to a Stateless Functional Component
+
+4.15. Pass an Array as Props
+
+4.16. Use Default Props
+
+4.17. Override Default Props
+
+4.18. Use PropTypes to Define the Props You Expect
+
+4.19. Access Props Using this.props
+
+4.20. Review Using Props with Stateless Functional Components
+
+4.21. Create a Stateful Component
+
+4.22. Render State in the User Interface
+
+4.23. Render State in the User Interface Another Way
+
+4.24. Set State with this.setState
+
+4.25. Bind 'this' to a Class Method
+
+4.26. Use State to Toggle an Element
+
+4.27. Write a Simple Counter
+
+4.28. Create a Controlled Input
+
+4.29. Create a Controlled Form
+
+4.30. Pass State as Props to Child Components
+
+4.31. Pass a Callback as Props
+
+4.32. Use the Lifecycle Method componentWillMount
+
+4.33. Use the Lifecycle Method componentDidMount
+
+4.34. Add Event Listeners
+
+4.35. Optimise Re-Renders with shouldComponentUpdate
+
+4.36. Introducing Inline Styles
+
+4.37. Add Inline Styles in React
+
+4.38. Use Advanced JavaScript in React Render Method
+
+4.39. Render with an If-Else Condition
+
+4.40. Use && for a More Concise Conditional
+
+4.41. Use a Ternary Expression for Conditional Rendering
+
+4.42. Render Conditionally from Props
+
+4.43. Change Inline CSS Conditionally Based on Component State
+
+4.44. Use Array.map() to Dynamically Render Elements
+
+4.45. Give Sibling Elements a Unique Key Attribute
+
+4.46. Use Array.filter() to Dynamically Filter an Array
+
+4.47. Render React on the Server with renderToString
