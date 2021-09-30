@@ -5,6 +5,7 @@ Front End Development Libraries
 1. Bootstrap
 
 1.1. Use Responsive Design with Bootstrap Fluid Containers
+
 1.2. Make Images Mobile Responsive
 1.3. Make Images Mobile ResponsiveCenter Text with Bootstrap
 1.4. Create a Bootstrap Button
